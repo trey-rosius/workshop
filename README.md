@@ -1,6 +1,7 @@
 # workshop
 
-A new Flutter project.
+A  project showcasing the flexibility and speed at which you can use flutter to build mobile apps
+
 
 ## Getting Started
 
